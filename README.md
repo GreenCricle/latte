@@ -1,5 +1,6 @@
 # latte-cls1
-python library for data classification 
+
+https://pypi.org/project/Latte-cls1/
 
 Project description
 Latte
