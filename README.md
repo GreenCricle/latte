@@ -1,8 +1,7 @@
-# latte-cls1
 
-https://pypi.org/project/Latte-cls1/
+https://pypi.org/project/latte-cls-one/
 
-for python installation  "pip install Latte-cls1"
+for python installation  "pip install latte-cls-one==0.0.5"
 
 Project description
 
