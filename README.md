@@ -39,3 +39,8 @@ Change Log
 0.0.3 (15/07/2023)
 
 -First Release
+
+for python installation  "pip install Latte-cls1"
+
+
+
