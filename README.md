@@ -2,8 +2,9 @@
 
 https://pypi.org/project/Latte-cls1/
 
+for python installation  "pip install Latte-cls1"
+
 Project description
-Latte
 
 This is a simple package for data classification
 
@@ -41,7 +42,7 @@ Change Log
 
 -First Release
 
-for python installation  "pip install Latte-cls1"
+
 
 
 
