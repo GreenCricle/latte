@@ -38,10 +38,7 @@ The matrix_add(matrix1, matrix2) function performs matrix addition on two given 
 The function uses numpy’s add function to perform matrix addition and returns the result.
 
 Change Log
-0.0.3 (15/07/2023)
-
--First Release
-
+0.0.5(18/07/2023)
 
 
 
